@@ -78,7 +78,7 @@ body {
 #generate-btn {
     display: flex;
     align-items: center;
-    gap: 0.5rem;
+     gap: 0.5rem; 
     background-color: #00bcd4;
     color: #001f29;
     border: none;
@@ -147,7 +147,12 @@ body {
     }
 
     #generate-btn {
-        flex-direction: column;
+        
         text-align: center;
+       
+        
     }
+
+    
+
 }
